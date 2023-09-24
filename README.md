@@ -13,7 +13,7 @@ This is a Python script that automates uploading images and videos to Instagram 
 
 
 ```
-git clone  [https://github.com/your_username/instagram-bot.git](https://github.com/your_username/instagram-bot.git)
+git clone https://github.com/navinfeb15/Reddit-to-instagram.git
 ```
 
 2. Install the required Python packages:
