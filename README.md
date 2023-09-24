@@ -1,7 +1,3 @@
-
-# Flask Blog Application
-
-
 # Instagram Bot
 
 This is a Python script that automates uploading images and videos to Instagram using the Instabot library. It also includes functionality to convert images to a square format, change file extensions, and download images from Reddit for Instagram posts.
