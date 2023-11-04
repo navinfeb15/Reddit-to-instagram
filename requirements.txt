@@ -135,7 +135,7 @@ pdfminer.six==20200517
 pdfplumber==0.5.23
 peewee==3.13.3
 pickleshare==0.7.5
-Pillow==9.0.1
+Pillow==10.0.1
 pipenv==2021.5.29
 platformdirs==2.4.0
 pluggy==0.13.1
